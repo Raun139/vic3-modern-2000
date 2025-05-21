@@ -1,13 +1,15 @@
 ﻿building_investment_bureau = {
     building_group = bg_construction
     city_type = city
-    icon = "gfx/interface/icons/building_icons/construction_camp.dds"
+    icon = "gfx/interface/icons/building_icons/investment_bureau.png"
 
 	required_construction = construction_cost_very_low
 
     production_method_groups = {
         pmg_investment_bureau_baseline
     }
+
+	background = "gfx/interface/icons/building_icons/backgrounds/building_panel_bg_monuments.dds"
 }
 
 building_housing_industry = {
@@ -21,4 +23,51 @@ building_housing_industry = {
 	production_method_groups = {
 		pmg_housing_construction
 	}
+
+	background = "gfx/interface/icons/building_icons/backgrounds/building_panel_bg_monuments.dds"
+}
+
+building_medical_industry = {
+    building_group = bg_tertiary_industry
+	icon = "gfx/interface/icons/building_icons/medical_industry.png"
+	city_type = city
+	levels_per_mesh = 5
+	
+	required_construction = construction_cost_high
+	
+	production_method_groups = {
+		pmg_treatment_method
+	}
+
+	background = "gfx/interface/icons/building_icons/backgrounds/building_panel_bg_monuments.dds"
+}
+
+building_nursing_care_industry = {
+    building_group = bg_tertiary_industry
+	icon = "gfx/interface/icons/building_icons/nursing_care_industry.png"
+	city_type = city
+	levels_per_mesh = 5
+	
+	required_construction = construction_cost_high
+	
+	production_method_groups = {
+		pmg_nursing_care_system
+	}
+
+	background = "gfx/interface/icons/building_icons/backgrounds/building_panel_bg_monuments.dds"
+}
+
+building_primary_education_facility = {
+    building_group = bg_tertiary_industry
+	icon = "gfx/interface/icons/building_icons/primary_education_facility.png"
+	city_type = city
+	levels_per_mesh = 5
+	
+	required_construction = construction_cost_high
+	
+	production_method_groups = {
+		pmg_teaching_method
+	}
+
+	background = "gfx/interface/icons/building_icons/backgrounds/building_panel_bg_monuments.dds"
 }

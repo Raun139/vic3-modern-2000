@@ -7,9 +7,35 @@
 }
 
 house = {
-	texture = "gfx/interface/icons/goods_icons/wood.dds"
+	texture = "gfx/interface/icons/goods_icons/housing.png"
 	cost = 30
 	category = industrial
+	
+	prestige_factor = 5
+}
+
+medical_care = {
+	texture = "gfx/interface/icons/goods_icons/healthcare.png"
+	cost = 30
+	category = staple
+
+	local = yes
+	
+	prestige_factor = 5
+}
+
+nursing_care = {
+	texture = "gfx/interface/icons/goods_icons/nursing_care.png"
+	cost = 30
+	category = staple
+	
+	prestige_factor = 5
+}
+
+basic_education = {
+	texture = "gfx/interface/icons/goods_icons/basic_education.png"
+	cost = 30
+	category = staple
 	
 	prestige_factor = 5
 }

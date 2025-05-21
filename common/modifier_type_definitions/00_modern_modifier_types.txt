@@ -28,3 +28,51 @@ goods_input_house_add={
 		ai_value=0
 	}
 }
+
+goods_output_medical_care_add = {
+	decimals=1
+	color=good
+	game_data={
+		ai_value=0
+	}
+}
+
+goods_input_medical_care_add={
+	decimals=1
+	color=bad
+	game_data={
+		ai_value=0
+	}
+}
+
+goods_output_nursing_care_add = {
+	decimals=1
+	color=good
+	game_data={
+		ai_value=0
+	}
+}
+
+goods_input_nursing_care_add={
+	decimals=1
+	color=bad
+	game_data={
+		ai_value=0
+	}
+}
+
+goods_output_basic_education_add = {
+	decimals=1
+	color=good
+	game_data={
+		ai_value=0
+	}
+}
+
+goods_input_basic_education_add={
+	decimals=1
+	color=bad
+	game_data={
+		ai_value=0
+	}
+}

@@ -115,3 +115,50 @@ pm_arc_welded_buildings = {
 
 	required_input_goods = electricity
 }
+
+pm_basic_examination = {
+	texture = "gfx/interface/icons/production_method_icons/wooden_buildings.dds"
+	
+	is_default = yes
+
+	building_modifiers = {
+		workforce_scaled = {
+			goods_output_medical_care_add = 50
+		}
+
+		level_scaled = {
+			building_employment_laborers_add = 20000
+		}
+	}
+}
+
+pm_basic_nursing_care = {
+	texture = "gfx/interface/icons/production_method_icons/wooden_buildings.dds"
+	
+	is_default = yes
+
+	building_modifiers = {
+		workforce_scaled = {
+			goods_output_nursing_care_add = 50
+		}
+
+		level_scaled = {
+			building_employment_laborers_add = 20000
+		}
+	}
+}
+pm_normal_teaching_method = {
+	texture = "gfx/interface/icons/production_method_icons/wooden_buildings.dds"
+	
+	is_default = yes
+
+	building_modifiers = {
+		workforce_scaled = {
+			goods_output_basic_education_add = 50
+		}
+
+		level_scaled = {
+			building_employment_laborers_add = 20000
+		}
+	}
+}

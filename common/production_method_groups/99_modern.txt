@@ -18,3 +18,30 @@ pmg_housing_construction  = {
 		pm_arc_welded_buildings
 	}
 }
+
+pmg_treatment_method = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_base.dds"
+	ai_selection = most_productive
+
+	production_methods = {
+		pm_basic_examination	
+	}
+}
+
+pmg_nursing_care_system = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_base.dds"
+	ai_selection = most_productive
+
+	production_methods = {
+		pm_basic_nursing_care	
+	}
+}
+
+pmg_teaching_method = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_base.dds"
+	ai_selection = most_productive
+
+	production_methods = {
+		pm_normal_teaching_method
+	}
+}

@@ -1,0 +1,39 @@
+texticon = {
+	icon = house
+	iconsize = {
+		texture = "gfx/interface/icons/goods_icons/housing.png"
+		size = { 25 25 }
+		offset = { 0 7 }
+		fontsize = 18
+	}
+}
+
+texticon = {
+	icon = medical_care
+	iconsize = {
+		texture = "gfx/interface/icons/goods_icons/healthcare.png"
+		size = { 25 25 }
+		offset = { 0 7 }
+		fontsize = 18
+	}
+}
+
+texticon = {
+	icon = nursing_care
+	iconsize = {
+		texture = "gfx/interface/icons/goods_icons/nursing_care.png"
+		size = { 25 25 }
+		offset = { 0 7 }
+		fontsize = 18
+	}
+}
+
+texticon = {
+	icon = basic_education
+	iconsize = {
+		texture = "gfx/interface/icons/goods_icons/basic_education.png"
+		size = { 25 25 }
+		offset = { 0 7 }
+		fontsize = 18
+	}
+}

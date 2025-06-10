@@ -491,29 +491,7 @@
 		region_state:NET = {
 			create_pop = {
 				culture = dutch
-				size = 842331
-			}
-			create_pop = {
-				culture = dutch
-				religion = catholic
-				size = 327009
-			}
-			create_pop = {
-				culture = flemish
-				size = 26531
-			}
-			create_pop = {
-				culture = wallonian # French or Walloon Reformed
-				religion = protestant
-				size = 6542
-			}
-			create_pop = {
-				culture = ashkenazi
-				size = 34143
-			}
-			create_pop = {
-				culture = sephardic # "Portuguese" Jews
-				size = 2908
+				size = 7395938
 			}
 		}
 	}
@@ -522,65 +500,17 @@
 		region_state:NET = {
 			create_pop = {
 				culture = dutch
-				size = 528678
-			}
-			create_pop = {
-				culture = dutch
-				religion = catholic
-				size = 134022
-			}
-			create_pop = {
-				culture = wallonian # French or Walloon Reformed
-				religion = protestant
-				size = 425
-			}
-			create_pop = {
-				culture = ashkenazi
-				size = 10947
+				size = 2733432
 			}
 		}
 	}
-	# Noordbrabant, Gelderland, and Limburg
+	# Noordbrabant, Gelderland, and Limburg	
 	s:STATE_GELRE = {
 		region_state:NET = {
 			create_pop = {
 				culture = dutch
-				size = 192091
-			}
-			create_pop = {
-				culture = dutch
 				religion = catholic
-				size = 513449
-			}
-			create_pop = {
-				culture = wallonian # French or Walloon Reformed
-				religion = protestant
-				size = 774
-			}
-			create_pop = {
-				culture = ashkenazi
-				size = 5804
-			}
-			create_pop = {
-				culture = north_german
-				religion = catholic
-				size = 15101
-			}
-		}
-		region_state:BEL = {
-			create_pop = {
-				culture = dutch
-				religion = catholic
-				size = 160440
-			}
-			create_pop = {
-				culture = north_german
-				religion = catholic
-				size = 4100
-			}
-			create_pop = {
-				culture = ashkenazi
-				size = 901
+				size = 5732432
 			}
 		}
 	}

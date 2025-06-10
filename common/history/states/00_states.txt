@@ -1711,6 +1711,7 @@ STATES = {
 		create_state = {
 			country = c:NET
 			owned_provinces = { xB03080 }
+			state_type = unincorporated
 		}
 		
 		add_homeland = cu:north_andean

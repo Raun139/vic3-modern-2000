@@ -90,8 +90,13 @@ POPS = {
 			create_pop = {
 				culture = guajiro
 				size = 4004
-			}
-			
+			}	
+		}
+		region_state:NET = {
+			create_pop = {
+				culture = afro_caribbean
+				size = 245972
+			}	
 		}
 	}
 	s:STATE_MIRANDA = {

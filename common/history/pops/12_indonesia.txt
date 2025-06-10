@@ -1237,5 +1237,11 @@
 				size = 40000
 			}
 		}
+		region_state:FRA = {
+			create_pop = {
+				culture = polynesian
+				size = 14500
+			}
+		}
 	}
 }

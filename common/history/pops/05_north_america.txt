@@ -3,15 +3,51 @@
 		region_state:USA = { 
 			create_pop = {
 				culture = yankee
-				size = 572046
+				size = 400400
 			}		
+			create_pop = {
+				culture = afro_american
+				size = 68640
+			}
+			create_pop = {
+				culture = mexican
+				size = 68640
+			}
+			create_pop = {
+				culture = han
+				size = 28600
+			}
+			create_pop = {
+				culture = siouan
+				size = 5720
+			}
 		}
 	}
 	s:STATE_LOUISIANA = {
 		region_state:USA = {
 			create_pop = {
 				culture = dixie
-				size = 4472000
+				size = 1873620
+			}
+			create_pop = {
+				culture = yankee
+				size = 1249080
+			}
+			create_pop = {
+				culture = afro_american
+				size = 535320
+			}
+			create_pop = {
+				culture = mexican
+				size = 535320
+			}
+			create_pop = {
+				culture = han
+				size = 223050
+			}
+			create_pop = {
+				culture = siouan
+				size = 44610
 			}
 		}
 	}
@@ -19,7 +55,24 @@
 		region_state:USA = {
 			create_pop = {
 				culture = yankee
-				size = 19000000
+				size = 13286000
+			}
+			create_pop = {
+				culture = afro_american
+				size = 2277600
+			}
+			create_pop = {
+				culture = mexican
+				religion = catholic
+				size = 2277600
+			}
+			create_pop = {
+				culture = han
+				size = 949000
+			}
+			create_pop = {
+				culture = siouan
+				size = 189800
 			}
 		}
 	}
@@ -27,7 +80,27 @@
 		region_state:USA = {
 			create_pop = {
 				culture = dixie
-				size = 7106000
+				size = 2973180
+			}
+			create_pop = {
+				culture = yankee
+				size = 1982120
+			}
+			create_pop = {
+				culture = afro_american
+				size = 849480
+			}
+			create_pop = {
+				culture = mexican
+				size = 849480
+			}
+			create_pop = {
+				culture = han
+				size = 353950
+			}
+			create_pop = {
+				culture = siouan
+				size = 70790
 			}
 		}
 	}
@@ -35,7 +108,23 @@
 		region_state:USA = {
 			create_pop = {
 				culture = yankee
-				size = 627963
+				size = 438830
+			}
+			create_pop = {
+				culture = afro_american
+				size = 375228
+			}
+			create_pop = {
+				culture = mexican
+				size = 75228
+			}
+			create_pop = {
+				culture = han
+				size = 31345
+			}
+			create_pop = {
+				culture = siouan
+				size = 6269
 			}
 		}
 	}
@@ -43,23 +132,71 @@
 		region_state:USA = {
 			create_pop = {
 				culture = yankee
-				size = 5911000
+				size = 4125799
 			}		
+			create_pop = {
+				culture = afro_american
+				size = 707280
+			}
+			create_pop = {
+				culture = mexican
+				size = 707280
+			}
+			create_pop = {
+				culture = han
+				size = 294700
+			}
+			create_pop = {
+				culture = siouan
+				size = 58940
+			}
 		}
 	}
 	s:STATE_OREGON = {
 		region_state:USA = {
 			create_pop = {
 				culture = yankee
-				size = 3430000 
+				size = 2394000
 			}			
+			create_pop = {
+				culture = afro_american
+				size = 410400
+			}
+			create_pop = {
+				culture = mexican
+				size = 410400
+			}
+			create_pop = {
+				culture = han
+				size = 171000
+			}
+			create_pop = {
+				culture = siouan
+				size = 34200
+			}
 		}
 	}
 	s:STATE_IDAHO = {
 		region_state:USA = {
 			create_pop = {
 				culture = yankee
-				size = 1299000
+				size = 905800
+			}
+			create_pop = {
+				culture = afro_american
+				size = 155280
+			}
+			create_pop = {
+				culture = mexican 
+				size = 155280
+			}
+			create_pop = {
+				culture = han 
+				size = 64700
+			}
+			create_pop = {
+				culture = siouan
+				size = 12940
 			}
 		}
 	}
@@ -67,7 +204,23 @@
 		region_state:USA = {
 			create_pop = {
 				culture = yankee
-				size = 4327000
+				size = 3012100
+			}
+			create_pop = {
+				culture = afro_american
+				size = 516360
+			}
+			create_pop = {
+				culture = mexican
+				size = 516360
+			}
+			create_pop = {
+				culture = han
+				size = 215150
+			}
+			create_pop = {
+				culture = siouan
+				size = 43030
 			}
 		}
 	}
@@ -75,7 +228,23 @@
 		region_state:USA = {
 			create_pop = {
 				culture = yankee
-				size = 494300 
+				size = 345660
+			}
+			create_pop = {
+				culture = afro_american 
+				size = 59256
+			}
+			create_pop = {
+				culture = mexican
+				size = 59256
+			}
+			create_pop = {
+				culture = han
+				size = 24690
+			}
+			create_pop = {
+				culture = siouan
+				size = 4938
 			}
 		}
 	}
@@ -83,7 +252,23 @@
 		region_state:USA = {
 			create_pop = {
 				culture = yankee
-				size = 903773
+				size = 631400
+			}
+			create_pop = {
+				culture = afro_american 
+				size = 108240
+			}
+			create_pop = {
+				culture = mexican
+				size = 108240
+			}
+			create_pop = {
+				culture = han
+				size = 45100
+			}
+			create_pop = {
+				culture = siouan 
+				size = 9020
 			}
 		}
 	}
@@ -91,7 +276,23 @@
 		region_state:USA = {
 			create_pop = {
 				culture = yankee
-				size = 642023
+				size = 444780
+			}
+			create_pop = {
+				culture = afro_american
+				size = 76248
+			}
+			create_pop = {
+				culture = mexican
+				size = 76248
+			}
+			create_pop = {
+				culture = han
+				size = 31770
+			}
+			create_pop = {
+				culture = siouan
+				size = 6354
 			}
 		}
 	}
@@ -99,15 +300,48 @@
 		region_state:USA = {
 			create_pop = {
 				culture = yankee
-				size = 755844
+				size = 528360
+			}
+			create_pop = {
+				culture = afro_american
+				size = 90576
+			}
+			create_pop = {
+				culture = mexican 
+				size = 90576
+			}
+			create_pop = {
+				culture = han
+				size = 37740 
+			}
+			create_pop = {
+				culture = siouan
+				size = 7548 
 			}
 		}
+		# DKT has 12000
 	}
 	s:STATE_NEBRASKA = {
 		region_state:USA = {
 			create_pop = {
 				culture = yankee
-				size = 1714000
+				size = 1197700
+			}
+			create_pop = {
+				culture = afro_american
+				size = 205320
+			}
+			create_pop = {
+				culture = mexican
+				size = 205320
+			}
+			create_pop = {
+				culture = han
+				size = 85550
+			}
+			create_pop = {
+				culture = siouan
+				size = 17110
 			}
 		}
 	}
@@ -115,7 +349,23 @@
 		region_state:USA = {
 			create_pop = {
 				culture = yankee
-				size = 2694000
+				size = 1879499
+			}
+			create_pop = {
+				culture = afro_american
+				size = 322200
+			}
+			create_pop = {
+				culture = mexican
+				size = 322200
+			}
+			create_pop = {
+				culture = han
+				size = 134250
+			}
+			create_pop = {
+				culture = siouan
+				size = 26850
 			}
 		}
 		
@@ -124,7 +374,27 @@
 		region_state:USA = {
 			create_pop = {
 				culture = dixie
-				size = 3454000
+				size = 1449000
+			}
+			create_pop = {
+				culture = yankee
+				size = 966000
+			}
+			create_pop = {
+				culture = afro_american
+				size = 408720
+			}
+			create_pop = {
+				culture = mexican
+				size = 408720
+			}
+			create_pop = {
+				culture = han
+				size = 170300
+			}
+			create_pop = {
+				culture = siouan
+				size = 34060
 			}
 		}
 	}
@@ -132,7 +402,27 @@
 		region_state:USA = {
 			create_pop = {
 				culture = dixie
-				size = 2679000
+				size = 1122659
+			}
+			create_pop = {
+				culture = yankee
+				size = 748440
+			}
+			create_pop = {
+				culture = afro_american
+				size = 320760
+			}
+			create_pop = {
+				culture = mexican
+				size = 320760
+			}
+			create_pop = {
+				culture = han
+				size = 133650
+			}
+			create_pop = {
+				culture = siouan
+				size = 26730
 			}
 		}
 	}
@@ -140,7 +430,27 @@
 		region_state:USA = {
 			create_pop = {
 				culture = dixie
-				size = 5607000
+				size = 2349899
+			}
+			create_pop = {
+				culture = yankee
+				size = 1566600
+			}
+			create_pop = {
+				culture = afro_american
+				size = 671400
+			}
+			create_pop = {
+				culture = mexican
+				size = 671400
+			}
+			create_pop = {
+				culture = han
+				size = 279750
+			}
+			create_pop = {
+				culture = siouan
+				size = 55950
 			}
 		}
 	}
@@ -148,7 +458,23 @@
 		region_state:USA = {
 			create_pop = {
 				culture = yankee
-				size = 2929000
+				size = 2048199
+			}
+			create_pop = {
+				culture = afro_american
+				size = 351120
+			}
+			create_pop = {
+				culture = mexican 
+				size = 351120
+			}
+			create_pop = {
+				culture = han
+				size = 146300
+			}
+			create_pop = {
+				culture = siouan
+				size = 29260
 			}
 		}
 	}
@@ -156,7 +482,23 @@
 		region_state:USA = {
 			create_pop = {
 				culture = yankee
-				size = 4934000
+				size = 3443300
+			}
+			create_pop = {
+				culture = afro_american
+				size = 590280
+			}
+			create_pop = {
+				culture = mexican
+				size = 590280
+			}
+			create_pop = {
+				culture = han
+				size = 245950
+			}
+			create_pop = {
+				culture = siouan
+				size = 49190
 			}
 		}
 	}
@@ -164,7 +506,23 @@
 		region_state:USA = {
 			create_pop = {
 				culture = yankee
-				size = 5374000
+				size = 3754799
+			}
+			create_pop = {
+				culture = afro_american
+				size = 643680
+			}
+			create_pop = {
+				culture = mexican
+				size = 643680
+			}
+			create_pop = {
+				culture = han
+				size = 268200
+			}
+			create_pop = {
+				culture = siouan
+				size = 53640
 			}
 		}
 	}
@@ -172,7 +530,23 @@
 		region_state:USA = {
 			create_pop = {
 				culture = yankee
-				size = 6092000
+				size = 4256000
+			}
+			create_pop = {
+				culture = afro_american
+				size = 729600
+			}
+			create_pop = {
+				culture = mexican
+				size = 729600
+			}
+			create_pop = {
+				culture = han
+				size = 304000
+			}
+			create_pop = {
+				culture = siouan
+				size = 60800
 			}
 		}
 	}
@@ -180,7 +554,23 @@
 		region_state:USA = {
 			create_pop = {
 				culture = yankee
-				size = 9952000
+				size = 6956600
+			}
+			create_pop = {
+				culture = afro_american
+				size = 1192560
+			}
+			create_pop = {
+				culture = mexican
+				size = 1192560
+			}
+			create_pop = {
+				culture = han
+				size = 496900
+			}
+			create_pop = {
+				culture = siouan
+				size = 99380
 			}
 		}
 	}
@@ -188,7 +578,23 @@
 		region_state:USA = {
 			create_pop = {
 				culture = yankee
-				size = 11360000
+				size = 7958999
+			}
+			create_pop = {
+				culture = afro_american
+				size = 1364400
+			}
+			create_pop = {
+				culture = mexican
+				size = 1364400
+			}
+			create_pop = {
+				culture = han
+				size = 568500
+			}
+			create_pop = {
+				culture = siouan
+				size = 113700
 			}
 		}
 	}	
@@ -196,7 +602,27 @@
 		region_state:USA = {
 			create_pop = {
 				culture = dixie
-				size = 4049000
+				size = 1700160
+			}
+			create_pop = {
+				culture = yankee
+				size = 1133440
+			}
+			create_pop = {
+				culture = afro_american
+				size = 485760 
+			}
+			create_pop = {
+				culture = mexican
+				size = 485760
+			}
+			create_pop = {
+				culture = han
+				size = 202400
+			}
+			create_pop = {
+				culture = siouan
+				size = 40480
 			}
 		}
 	}
@@ -204,7 +630,27 @@
 		region_state:USA = {
 			create_pop = {
 				culture = dixie
-				size = 5704000
+				size = 2389379
+			}
+			create_pop = {
+				culture = yankee
+				size = 1592920
+			}
+			create_pop = {
+				culture = afro_american
+				size = 682680
+			}
+			create_pop = {
+				culture = mexican
+				size = 682680
+			}
+			create_pop = {
+				culture = han
+				size = 279750
+			}
+			create_pop = {
+				culture = siouan
+				size = 55950
 			}
 		}
 	}
@@ -212,7 +658,27 @@
 		region_state:USA = {
 			create_pop = {
 				culture = afro_american
-				size = 2848000
+				size = 1024200
+			}
+			create_pop = {
+				culture = dixie
+				size = 1024200
+			}
+			create_pop = {
+				culture = yankee
+				size = 682800
+			}
+			create_pop = {
+				culture = mexican
+				size = 56900
+			}
+			create_pop = {
+				culture = han
+				size = 28450
+			}
+			create_pop = {
+				culture = siouan
+				size = 28450
 			}
 		}
 	}
@@ -220,7 +686,27 @@
 		region_state:USA = {
 			create_pop = {
 				culture = dixie
-				size = 4452000
+				size = 1867740
+			}
+			create_pop = {
+				culture = yankee
+				size = 1245160
+			}
+			create_pop = {
+				culture = afro_american
+				size = 533640
+			}
+			create_pop = {
+				culture = mexican
+				size = 533640
+			}
+			create_pop = {
+				culture = han
+				size = 222350
+			}
+			create_pop = {
+				culture = siouan
+				size = 44470
 			}
 		}
 	}
@@ -228,7 +714,27 @@
 		region_state:USA = {
 			create_pop = {
 				culture = dixie
-				size = 16050000
+				size = 6711600
+			}
+			create_pop = {
+				culture = afro_american
+				size = 1917600
+			}
+			create_pop = {
+				culture = yankee
+				size = 4474400
+			}
+			create_pop = {
+				culture = mexican
+				size = 1917600
+			}
+			create_pop = {
+				culture = han
+				size = 799000
+			}
+			create_pop = {
+				culture = siouan
+				size = 159800
 			}
 		}
 	}
@@ -236,7 +742,27 @@
 		region_state:USA = {
 			create_pop = {
 				culture = dixie
-				size = 8227000
+				size = 3438120
+			}
+			create_pop = {
+				culture = yankee
+				size = 2292080
+			}
+			create_pop = {
+				culture = afro_american
+				size = 982320
+			}
+			create_pop = {
+				culture = mexican
+				size = 982320
+			}
+			create_pop = {
+				culture = han
+				size = 409300
+			}
+			create_pop = {
+				culture = siouan
+				size = 81860
 			}
 		}
 	}
@@ -244,7 +770,27 @@
 		region_state:USA = {
 			create_pop = {
 				culture = dixie
-				size = 1807000
+				size = 758520
+			}
+			create_pop = {
+				culture = yankee
+				size = 505680
+			}
+			create_pop = {
+				culture = afro_american
+				size = 216720
+			}
+			create_pop = {
+				culture = mexican
+				size = 216720
+			}
+			create_pop = {
+				culture = han
+				size = 90300
+			}
+			create_pop = {
+				culture = siouan
+				size = 18060
 			}
 		}
 	}
@@ -252,7 +798,23 @@
 		region_state:USA = {
 			create_pop = {
 				culture = yankee
-				size = 5311000
+				size = 3702999
+			}
+			create_pop = {
+				culture = afro_american
+				size = 634800
+			}
+			create_pop = {
+				culture = mexican
+				size = 634800
+			}
+			create_pop = {
+				culture = han
+				size = 264500
+			}
+			create_pop = {
+				culture = siouan
+				size = 52900
 			}
 		}
 	}
@@ -261,7 +823,23 @@
 		region_state:USA = {
 			create_pop = {
 				culture = yankee
-				size = 786373
+				size = 548520
+			}
+			create_pop = {
+				culture = afro_american
+				size = 94032
+			}
+			create_pop = {
+				culture = mexican
+				size = 94032
+			}
+			create_pop = {
+				culture = han
+				size = 39180
+			}
+			create_pop = {
+				culture = siouan
+				size = 7836
 			}
 		}
 	}
@@ -270,7 +848,23 @@
 		region_state:USA = {
 			create_pop = {
 				culture = yankee
-				size = 12280000
+				size = 8596000
+			}
+			create_pop = {
+				culture = afro_american
+				size = 1490400
+			}
+			create_pop = {
+				culture = mexican
+				size = 1490400
+			}
+			create_pop = {
+				culture = han
+				size = 621000
+			}
+			create_pop = {
+				culture = siouan
+				size = 124200
 			}
 		}
 	}
@@ -278,7 +872,23 @@
 		region_state:USA = {
 			create_pop = {
 				culture = yankee
-				size = 8431000
+				size = 5889800
+			}
+			create_pop = {
+				culture = afro_american
+				size = 1009680
+			}
+			create_pop = {
+				culture = mexican
+				size = 1009680
+			}
+			create_pop = {
+				culture = han
+				size = 420700
+			}
+			create_pop = {
+				culture = siouan
+				size = 84140
 			}
 		}
 	}
@@ -286,7 +896,23 @@
 		region_state:USA = {
 			create_pop = {
 				culture = yankee
-				size = 12430000
+				size = 8694000
+			}
+			create_pop = {
+				culture = afro_american
+				size = 1490400
+			}
+			create_pop = {
+				culture = mexican
+				size = 1917600
+			}
+			create_pop = {
+				culture = han
+				size = 799000
+			}
+			create_pop = {
+				culture = siouan
+				size = 159800
 			}
 		}
 	}
@@ -294,7 +920,23 @@
 		region_state:USA = {
 			create_pop = {
 				culture = yankee
-				size = 1050000
+				size = 733600
+			}
+			create_pop = {
+				culture = afro_american
+				size = 125760
+			}
+			create_pop = {
+				culture = mexican
+				size = 125760
+			}
+			create_pop = {
+				culture = han
+				size = 52400
+			}
+			create_pop = {
+				culture = siouan
+				size = 10480
 			}
 		}
 	}
@@ -302,7 +944,23 @@
 		region_state:USA = {
 			create_pop = {
 				culture = yankee
-				size = 3412000
+				size = 2384200
+			}
+			create_pop = {
+				culture = afro_american
+				size = 408720
+			}
+			create_pop = {
+				culture = mexican
+				size = 408720
+			}
+			create_pop = {
+				culture = han
+				size = 146300
+			}
+			create_pop = {
+				culture = siouan
+				size = 29260
 			}
 		}
 	}
@@ -310,7 +968,23 @@
 		region_state:USA = {
 			create_pop = {
 				culture = yankee
-				size = 6361000
+				size = 4440800
+			}
+			create_pop = {
+				culture = afro_american
+				size = 761280
+			}
+			create_pop = {
+				culture = mexican
+				size = 761280
+			}
+			create_pop = {
+				culture = han
+				size = 317200
+			}
+			create_pop = {
+				culture = siouan
+				size = 63440
 			}
 		}
 	}
@@ -318,7 +992,23 @@
 		region_state:USA = {
 			create_pop = {
 				culture = yankee
-				size = 1240000
+				size = 865200
+			}
+			create_pop = {
+				culture = afro_american
+				size = 148320
+			}
+			create_pop = {
+				culture = mexican
+				size = 148320
+			}
+			create_pop = {
+				culture = han
+				size = 61800
+			}
+			create_pop = {
+				culture = siouan
+				size = 12360
 			}
 		}
 	}
@@ -326,7 +1016,23 @@
 		region_state:USA = {
 			create_pop = {
 				culture = yankee
-				size = 609618
+				size = 426930
+			}
+			create_pop = {
+				culture = afro_american
+				size = 73188
+			}
+			create_pop = {
+				culture = mexican
+				size = 73188
+			}
+			create_pop = {
+				culture = han
+				size = 30495
+			}
+			create_pop = {
+				culture = siouan
+				size = 6099 
 			}
 		}
 	}
@@ -334,7 +1040,23 @@
 		region_state:USA = {
 			create_pop = {
 				culture = yankee
-				size = 1277000
+				size = 892500
+			}
+			create_pop = {
+				culture = afro_american
+				size = 153000
+			}
+			create_pop = {
+				culture = mexican
+				size = 153000
+			}
+			create_pop = {
+				culture = han
+				size = 63750
+			}
+			create_pop = {
+				culture = siouan
+				size = 12750 
 			}
 		}
 	}
@@ -342,7 +1064,27 @@
 		region_state:USA = {
 			create_pop = {
 				culture = dixie
-				size = 8082000
+				size = 3380580
+			}
+			create_pop = {
+				culture = yankee
+				size = 2253720
+			}
+			create_pop = {
+				culture = afro_american
+				size = 965880
+			}
+			create_pop = {
+				culture = mexican
+				size = 965880
+			}
+			create_pop = {
+				culture = han
+				size = 402450
+			}
+			create_pop = {
+				culture = siouan
+				size = 80490
 			}
 		}
 	}
@@ -350,7 +1092,23 @@
 		region_state:USA = {
 			create_pop = {
 				culture = yankee
-				size = 2245000
+				size = 1563100
+			}
+			create_pop = {
+				culture = afro_american
+				size = 267960 
+			}
+			create_pop = {
+				culture = mexican
+				size = 267960
+			}
+			create_pop = {
+				culture = han 
+				size = 111650
+			}
+			create_pop = {
+				culture = siouan
+				size = 22330
 			}
 		}
 	}
@@ -358,15 +1116,56 @@
 		region_state:USA = {
 			create_pop = {
 				culture = dixie
-				size = 4024000
+				size = 1685040
+			}
+			create_pop = {
+				culture = yankee
+				size = 1123360
+			}
+			create_pop = {
+				culture = afro_american
+				size = 481440
+			}
+			create_pop = {
+				culture = mexican
+				size = 481440
+			}
+			create_pop = {
+				culture = han
+				size = 200600
+			}
+			create_pop = {
+				culture = siouan
+				size = 40120
 			}
 		}
 	}
 	s:STATE_HAWAIIAN_ISLANDS = {
 		region_state:USA = {
 			create_pop = {
+				culture = han
+				size = 727200
+			}
+			create_pop = {
 				culture = yankee
-				size = 1214000
+				size = 303000
+			}
+			create_pop = {
+				culture = siouan
+				size = 121200
+			}
+			create_pop = {
+				culture = afro_american
+				size = 36360
+			}
+			create_pop = {
+				culture = hawaiian
+				religion = protestant
+				size = 150000
+			}
+			create_pop = {
+				culture = mexican
+				size = 24240
 			}
 		}
 	}
@@ -684,7 +1483,23 @@
 		region_state:USA = {
 			create_pop = {
 				culture = yankee
-				size = 33990000
+				size = 16740000
+			}
+			create_pop = {
+				culture = mexican
+				size = 10044000
+			}
+			create_pop = {
+				culture = han
+				size = 3348000
+			}
+			create_pop = {
+				culture = afro_american
+				size = 2678400
+			}
+			create_pop = {
+				culture = siouan
+				size = 669600
 			}
 		}
 	}

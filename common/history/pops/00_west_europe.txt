@@ -335,47 +335,16 @@
 		region_state:FRA = {
 			create_pop = {
 				culture = french
-				size = 1852741
+				size = 10946012
 			}
-			create_pop = {
-				culture = french
-				religion = protestant
-				size = 20393
-			}
-			create_pop = {
-				culture = ashkenazi
-				size = 9220
-			}
+			
 		}
 	}
 	s:STATE_PROVENCE = {
-		region_state:SAR = {
-			create_pop = {
-				culture = north_italian
-				size = 131100
-			}
-			create_pop = {
-				culture = occitan
-				size = 41100
-			}
-		}
 		region_state:FRA = {
 			create_pop = {
 				culture = occitan
-				size = 1038678
-			}
-			create_pop = {
-				culture = occitan
-				religion = protestant
-				size = 12115
-			}
-			create_pop = {
-				culture = french
-				size = 37612
-			}
-			create_pop = {
-				culture = sephardic # Avignonese Jews, closer to Sephardi than Ashkenazi
-				size = 2440
+				size = 4381047
 			}
 		}
 	}
@@ -383,41 +352,16 @@
 		region_state:FRA = {
 			create_pop = {
 				culture = french
-				size = 2670494
+				size = 3202449
 			}
-			create_pop = {
-				culture = french
-				religion = protestant
-				size = 14169
-			}
-			create_pop = {
-				culture = ashkenazi
-				size = 469
-			}
+			
 		}
 	}
 	s:STATE_LANGUEDOC = {
 		region_state:FRA = {
 			create_pop = {
 				culture = occitan
-				size = 1994848
-			}
-			create_pop = {
-				culture = occitan
-				religion = protestant
-				size = 167963
-			}
-			create_pop = {
-				culture = catalan
-				size = 145206
-			}
-			create_pop = {
-				culture = french
-				size = 64216
-			}
-			create_pop = {
-				culture = sephardic
-				size = 895
+				size = 3817258
 			}
 		}
 	}
@@ -425,29 +369,7 @@
 		region_state:FRA = {
 			create_pop = {
 				culture = francoprovencal
-				size = 1709209
-			}
-			create_pop = {
-				culture = francoprovencal
-				religion = protestant
-				size = 7736
-			}
-			create_pop = {
-				culture = occitan
-				size = 711985
-			}
-			create_pop = {
-				culture = occitan
-				religion = protestant
-				size = 78428
-			}
-			create_pop = {
-				culture = french
-				size = 96520
-			}
-			create_pop = {
-				culture = ashkenazi
-				size = 889
+				size = 4758166
 			}
 		}
 	}
@@ -455,25 +377,7 @@
 		region_state:FRA = {
 			create_pop = {
 				culture = french
-				size = 1608005
-			}
-			create_pop = {
-				culture = french
-				religion = protestant
-				size = 10279
-			}
-			create_pop = {
-				culture = flemish
-				size = 70121
-			}
-			create_pop = {
-				culture = flemish
-				religion = protestant
-				size = 2021
-			}
-			create_pop = {
-				culture = ashkenazi
-				size = 645
+				size = 3997467
 			}
 		}
 	}
@@ -481,46 +385,16 @@
 		region_state:FRA = {
 			create_pop = {
 				culture = french
-				size = 1470989
+				size = 1857981
 			}
-			create_pop = {
-				culture = french
-				religion = protestant
-				size = 7307
-			}
-			create_pop = {
-				culture = ashkenazi
-				size = 146
-			}
+			
 		}
 	}
 	s:STATE_ALSACE_LORRAINE = {
 		region_state:FRA = {
 			create_pop = {
 				culture = alemannic
-				size = 719210
-			}
-			create_pop = {
-				culture = alemannic
-				religion = protestant
-				size = 220778
-			}
-			create_pop = {
-				culture = south_german
-				size = 236987
-			}
-			create_pop = {
-				culture = south_german
-				religion = protestant
-				size = 4571
-			}
-			create_pop = {
-				culture = french
-				size = 215063
-			}
-			create_pop = {
-				culture = ashkenazi
-				size = 39519
+				size = 2756351
 			}
 		}
 	}
@@ -528,20 +402,7 @@
 		region_state:FRA = {
 			create_pop = {
 				culture = french
-				size = 1680062
-			}
-			create_pop = {
-				culture = french
-				religion = protestant
-				size = 65087
-			}
-			create_pop = {
-				culture = occitan
-				size = 3001
-			}
-			create_pop = {
-				culture = ashkenazi
-				size = 44
+				size = 2178824
 			}
 		}
 	}
@@ -549,16 +410,7 @@
 		region_state:FRA = {
 			create_pop = {
 				culture = occitan
-				size = 1693584
-			}
-			create_pop = {
-				culture = french
-				size = 10362
-			}
-			create_pop = {
-				culture = occitan
-				religion = protestant
-				size = 30094
+				size = 1324196
 			}
 		}
 	}
@@ -566,20 +418,7 @@
 		region_state:FRA = {
 			create_pop = {
 				culture = occitan
-				size = 1949056
-			}
-			create_pop = {
-				culture = french
-				size = 369270
-			}
-			create_pop = {
-				culture = occitan
-				religion = protestant
-				size = 9298
-			}
-			create_pop = {
-				culture = ashkenazi
-				size = 263
+				size = 2020845
 			}
 		}
 	}
@@ -587,20 +426,7 @@
 		region_state:FRA = {
 			create_pop = {
 				culture = breton
-				size = 1599083
-			}
-			create_pop = {
-				culture = french
-				size = 1018017
-			}
-			create_pop = {
-				culture = breton
-				religion = protestant
-				size = 3030
-			}
-			create_pop = {
-				culture = ashkenazi
-				size = 148
+				size = 4037322
 			}
 		}
 	}
@@ -608,20 +434,7 @@
 		region_state:FRA = {
 			create_pop = {
 				culture = french
-				size = 1561366
-			}
-			create_pop = {
-				culture = french
-				religion = protestant
-				size = 2607
-			}
-			create_pop = {
-				culture = francoprovencal
-				size = 12350
-			}
-			create_pop = {
-				culture = ashkenazi
-				size = 595
+				size = 1610833
 			}
 		}
 	}
@@ -629,37 +442,15 @@
 		region_state:FRA = {
 			create_pop = {
 				culture = french
-				size = 1608973
-			}
-			create_pop = {
-				culture = french
-				religion = protestant
-				size = 1161
-			}
-			create_pop = {
-				culture = ashkenazi
-				size = 60
-			}
+				size = 2101314
+			}	
 		}
 	}
 	s:STATE_CHAMPAGNE = {
 		region_state:FRA = {
 			create_pop = {
 				culture = french
-				size = 1153438
-			}
-			create_pop = {
-				culture = french
-				religion = protestant
-				size = 3472
-			}
-			create_pop = { # Givet area Walloon
-				culture = wallonian
-				size = 4167
-			}
-			create_pop = {
-				culture = ashkenazi
-				size = 868
+				size = 1343266
 			}
 		}
 	}
@@ -667,20 +458,7 @@
 		region_state:FRA = {
 			create_pop = {
 				culture = french
-				size = 770731
-			}
-			create_pop = {
-				culture = french
-				religion = protestant
-				size = 40722
-			}
-			create_pop = {
-				culture = francoprovencal
-				size = 121924
-			}
-			create_pop = {
-				culture = ashkenazi
-				size = 1550
+				size = 1117253
 			}
 		}
 	}
@@ -688,16 +466,7 @@
 		region_state:FRA = {
 			create_pop = {
 				culture = french
-				size = 1133731
-			}
-			create_pop = {
-				culture = french
-				religion = protestant
-				size = 12130
-			}
-			create_pop = {
-				culture = ashkenazi
-				size = 7240
+				size = 1287892
 			}
 		}
 	}
@@ -705,24 +474,7 @@
 		region_state:FRA = {
 			create_pop = {
 				culture = occitan
-				size = 1703916
-			}
-			create_pop = {
-				culture = occitan
-				religion = protestant
-				size = 18784
-			}
-			create_pop = {
-				culture = french
-				size = 58129
-			}
-			create_pop = {
-				culture = basque
-				size = 60145
-			}
-			create_pop = {
-				culture = sephardic
-				size = 3203
+				size = 2607974
 			}
 		}
 	}
@@ -730,16 +482,7 @@
 		region_state:FRA = {
 			create_pop = {
 				culture = french
-				size = 1375047
-			}
-			create_pop = {
-				culture = french
-				religion = protestant
-				size = 4355
-			}
-			create_pop = {
-				culture = ashkenazi
-				size = 91
+				size = 1886605
 			}
 		}
 	}

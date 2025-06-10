@@ -48,16 +48,8 @@ POPS = {
 		}
 		region_state:FRA = {
 			create_pop = {
-				culture = french
-				size = 1592
-			}
-			create_pop = {
-				culture = amazonian
-				size = 4000
-			}
-			create_pop = {
 				culture = afro_antillean
-				size = 14400
+				size = 155760
 			}
 		}
 		region_state:GBR = {

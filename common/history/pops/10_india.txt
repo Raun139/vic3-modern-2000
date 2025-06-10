@@ -1451,21 +1451,8 @@ POPS = {
 	s:STATE_INDIAN_OCEAN_TERRITORY = {
 		region_state:FRA = {
 			create_pop = {
-				culture = french
-				size = 29992
-			}
-			create_pop = {
 				culture = afro_antillean
-				size = 68000
-			}
-			create_pop = {
-				culture = swahili
-				size = 2000
-			}
-			create_pop = {
-				culture = afro_antillean
-				religion = animist
-				size = 6000
+				size = 703820
 			}
 		}
 		region_state:GBR = {

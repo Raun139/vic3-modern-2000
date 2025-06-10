@@ -207,12 +207,8 @@
 	s:STATE_WEST_INDIES = {
 		region_state:FRA = {
 			create_pop = {
-				culture = french
-				size = 22200
-			}
-			create_pop = {
 				culture = afro_antillean
-				size = 216104
+				size = 766472
 			}
 		}
 		region_state:DEN = {

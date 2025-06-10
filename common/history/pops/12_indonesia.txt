@@ -1182,10 +1182,10 @@
 	}
 
 	s:STATE_KANAK = {
-		region_state:KNK = {
+		region_state:FRA = {
 			create_pop = {
 				culture = melanesian
-				size = 56004
+				size = 201816
 			}
 		}
 	}
@@ -1220,6 +1220,12 @@
 			create_pop = {
 				culture = british
 				size = 51
+			}
+		}
+		region_state:FRA= {
+			create_pop = {
+				culture = polynesian
+				size = 240000
 			}
 		}
 	}

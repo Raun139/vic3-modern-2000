@@ -15,7 +15,7 @@
 			}
 			create_pop = {
 				culture = han
-				size = 28600
+				size = 28659
 			}
 			create_pop = {
 				culture = siouan
@@ -1173,54 +1173,16 @@
 		region_state:CAN = {
 			create_pop = {
 				culture = anglo_canadian
-				size = 378792
-			}
-			create_pop = {
-				culture = cree
-				size = 40400
-			}
-			create_pop = {
-				culture = franco_canadian
-				size = 23400
-			}
-			create_pop = {
-				culture = iroquoian
-				size = 3902
-			}
-			create_pop = {
-				culture = algonquian
-				size = 3902
-			}
-			create_pop = {
-				culture = franco_canadian
-				religion = protestant
-				size = 600
-			}
-
-			create_pop = {
-				culture = metis
-				size = 3996
-			}
-			create_pop = {
-				culture = siouan
-				size = 4000
+				size = 11669300
 			}
 		}
 	}
 	s:STATE_NEW_BRUNSWICK = {
-		# New Brunswick: 119457 in 1834
+		# In game is the maritimes
 		region_state:CAN = {
 			create_pop = {
 				culture = anglo_canadian
-				size = 262563
-			}
-			create_pop = {
-				culture = afro_american
-				size = 4000
-			}
-			create_pop = {
-				culture = franco_canadian
-				size = 52800
+				size = 1820808
 			}
 		}
 	}
@@ -1228,35 +1190,15 @@
 		region_state:CAN = {
 			create_pop = {
 				culture = franco_canadian
-				size = 566400
-			}
-			create_pop = {
-				culture = anglo_canadian
-				size = 13000
-			}
-			create_pop = {
-				culture = cree
-				size = 21204
-			}
-			create_pop = {
-				culture = inuit
-				size = 4000
+				size = 7372400
 			}
 		}
 	}
 	s:STATE_NEWFOUNDLAND = {
 		region_state:CAN = {
 			create_pop = {
-				culture = inuit
-				size = 7980
-			}
-			create_pop = {
-				culture = irish
-				size = 40000
-			}
-			create_pop = {
 				culture = anglo_canadian
-				size = 39996
+				size = 527966
 			}
 		}
 	}
@@ -1264,90 +1206,39 @@
 		region_state:CAN = {
 			create_pop = {
 				culture = anglo_canadian
-				size = 3999
+				size = 2997236
 			}		
-			create_pop = {
-				culture = siouan
-				size = 37404
-			}
-			create_pop = {
-				culture = metis
-				size = 16000
-			}
 		}
 	}
 	s:STATE_BRITISH_COLUMBIA = {
 		region_state:CAN = {
 			create_pop = {
 				culture = anglo_canadian
-				size = 8000
+				size = 4063800
 			}		
-			create_pop = {
-				culture = salish
-				size = 27396
-			}
-			create_pop = {
-				culture = athabaskan
-				size = 55200
-			}
 		}
 	}
 	s:STATE_SASKATCHEWAN = {
 		region_state:CAN = {
 			create_pop = {
 				culture = anglo_canadian
-				size = 3000
+				size = 1023636
 			}			
-			create_pop = {
-				culture = siouan
-				size = 12200
-			}
-			create_pop = {
-				culture = metis
-				size = 16000
-			}
-
-			create_pop = {
-				culture = cree
-				size = 24000
-			}
 		}
 	}
 	s:STATE_MANITOBA = {
 		region_state:CAN = {
 			create_pop = {
 				culture = anglo_canadian
-				size = 14848
+				size = 1147313
 			}		
-			create_pop = {
-				culture = siouan
-				size = 12000
-			}
-			create_pop = {
-				culture = metis
-				religion = protestant
-				size = 3996
-			}
-			create_pop = {
-				culture = athabaskan
-				size = 16000
-			}
-			create_pop = {
-				culture = metis
-				size = 20004
-			}
-
-			create_pop = {
-				culture = cree
-				size = 12000
-			}
 		}
 	}
 	s:STATE_YUKON_TERRITORY = {
 		region_state:CAN = {
 			create_pop = {
 				culture = athabaskan
-				size = 12000
+				size = 30431
 			}
 		}
 	}
@@ -1355,7 +1246,7 @@
 		region_state:CAN = {
 			create_pop = {
 				culture = athabaskan
-				size = 16000
+				size = 40480
 			}
 		}
 	}
@@ -1363,7 +1254,7 @@
 		region_state:CAN = {
 			create_pop = {
 				culture = inuit
-				size = 11980
+				size = 26820
 			}
 		}
 	}

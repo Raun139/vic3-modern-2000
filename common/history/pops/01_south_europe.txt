@@ -1,59 +1,41 @@
 ﻿POPS = {
 	s:STATE_LOMBARDY = {
-		region_state:AUS = {
+		region_state:ITA = {
 			create_pop = {
 				culture = north_italian
-				size = 2376996
-			}
-			create_pop = {
-				culture = north_italian
-				religion = jewish
-				size = 396
+				size = 8971154
 			}
 		}
 	}
 	s:STATE_PIEDMONT = {
-		region_state:SAR = {
+		region_state:ITA = {
 			create_pop = {
 				culture = north_italian
-				size = 2367188
-			}
-			create_pop = {
-				culture = french
-				size = 93996
-			}
-			create_pop = {
-				culture = north_italian
-				religion = jewish
-				size = 2804
+				size = 5931624
 			}
 		}
 	}
 	s:STATE_SARDINIA = {
-		region_state:SAR = {
+		region_state:ITA = {
 			create_pop = {
 				culture = south_italian
-				size = 524084
+				size = 1638422
 			}
 		}
 	}
 	s:STATE_MALTA = {
-		region_state:GBR = {
+		region_state:MLT = {
 			create_pop = {
 				culture = maltese
-				size = 117192
-			}
-			create_pop = {
-				culture = british
-				size = 2792
+				size = 398492
 			}
 		}
 	}
 	s:STATE_UMBRIA = {
-		region_state:PAP = {
+		region_state:ITA = {
 			create_pop = {
 				culture = south_italian
-				size = 451000
+				size = 2278466
 			}
 		}
 	}
@@ -66,34 +48,34 @@
 		}
 	}
 	s:STATE_CAMPANIA = {
-		region_state:SIC = {
+		region_state:ITA = {
 			create_pop = {
 				culture = south_italian
-				size = 2557396
+				size = 5717191
 			}
 		}
 	}
 	s:STATE_CALABRIA = {
-		region_state:SIC = {
+		region_state:ITA = {
 			create_pop = {
 				culture = south_italian
-				size = 882848
+				size = 2629455
 			}
 		}
 	}
 	s:STATE_APULIA = {
-		region_state:SIC = {
+		region_state:ITA = {
 			create_pop = {
 				culture = south_italian
-				size = 1284392
+				size = 4034132
 			}
 		}
 	}
 	s:STATE_ABRUZZO = {
-		region_state:SIC = {
+		region_state:ITA = {
 			create_pop = {
 				culture = south_italian
-				size = 660448
+				size = 1583911
 			}
 		}
 	}
@@ -106,77 +88,50 @@
 		}
 	}
 	s:STATE_EMILIA = {
-		region_state:PAR = {
+		region_state:ITA = {
 			create_pop = {
 				culture = north_italian
-				size = 472004
-			}
-		}
-		region_state:LUC = {
-			create_pop = {
-				culture = north_italian
-				size = 108408
-			}
-		}
-		region_state:MOD = {
-			create_pop = {
-				culture = north_italian
-				size = 648400
+				size = 2169973
 			}
 		}
 	}
 	s:STATE_TUSCANY = {
-		region_state:TUS = {
+		region_state:ITA = {
 			create_pop = {
 				culture = north_italian
-				size = 1625400
-			}
-			create_pop = {
-				culture = north_italian
-				religion = jewish
-				size = 6996
+				size = 3491308
 			}
 		}
 	}
 	s:STATE_ROMAGNA = {
-		region_state:PAP = {
+		region_state:ITA = {
 			create_pop = {
 				culture = north_italian
-				size = 803600
+				size = 1775432
 			}
 		}
 	}
 	s:STATE_LAZIO = {
-		region_state:PAP = {
+		region_state:ITA = {
 			create_pop = {
 				culture = south_italian
-				size = 1333868
-			}
-			create_pop = {
-				culture = south_italian
-				religion = jewish
-				size = 5596
+				size = 5116960
 			}
 		}
 	}
 	s:STATE_VENETIA = {
-		region_state:AUS = {
+		region_state:ITA = {
 			create_pop = {
 				culture = north_italian
-				size = 1855196
-			}
-			create_pop = {
-				culture = north_italian
-				religion = jewish
-				size = 2000
+				size = 5663326
 			}
 		}
 	}
 	s:STATE_SICILY = {
-		region_state:SIC = {
+		region_state:ITA = {
 			create_pop = {
 				culture = south_italian
-				size = 1647596
+				size = 4993111
 			}
 		}
 	}
@@ -184,7 +139,7 @@
 		region_state:SPA = {
 			create_pop = {
 				culture = spanish
-				size = 1268400
+				size = 6939669
 			}
 		}
 	}
@@ -193,11 +148,7 @@
 		region_state:SPA = {
 			create_pop = {
 				culture = galician
-				size = 828528
-			}
-			create_pop = {
-				culture = spanish
-				size = 12264
+				size = 2731900
 			}
 		}
 	}
@@ -206,11 +157,7 @@
 		region_state:SPA = {
 			create_pop = {
 				culture = spanish
-				size = 614264
-			}
-			create_pop = {
-				culture = basque
-				size = 32000
+				size = 1607726
 			}
 		}	
 	}
@@ -218,27 +165,15 @@
 		region_state:SPA = {
 			create_pop = {
 				culture = spanish
-				size = 1430808
-			}
-			create_pop = {
-				culture = basque
-				size = 4000
+				size = 2479118
 			}
 		}
 	}
 	s:STATE_NAVARRA = {
 		region_state:SPA = {
 			create_pop = {
-				culture = spanish
-				size = 579200
-			}
-			create_pop = {
-				culture = catalan
-				size = 32220
-			}
-			create_pop = {
 				culture = basque
-				size = 700060
+				size = 2906531
 			}
 		}
 	}
@@ -246,15 +181,7 @@
 		region_state:SPA = {
 			create_pop = {
 				culture = spanish
-				size = 401200
-			}
-			create_pop = {
-				culture = basque
-				size = 100008
-			}
-			create_pop = {
-				culture = catalan
-				size = 77996
+				size = 1189909
 			}
 		}
 	}
@@ -262,11 +189,7 @@
 		region_state:SPA = {
 			create_pop = {
 				culture = catalan
-				size = 704308
-			}
-			create_pop = {
-				culture = spanish
-				size = 316804
+				size = 6261999
 			}
 		}
 	}
@@ -274,11 +197,7 @@
 		region_state:SPA = {
 			create_pop = {
 				culture = catalan
-				size = 145244
-			}
-			create_pop = {
-				culture = spanish
-				size = 78020
+				size = 845630
 			}
 		}
 	}
@@ -286,7 +205,7 @@
 		region_state:SPA = {
 			create_pop = {
 				culture = spanish
-				size = 1057592
+				size = 4110429
 			}
 		}
 	}
@@ -294,7 +213,7 @@
 		region_state:SPA = {
 			create_pop = {
 				culture = spanish
-				size = 1218404
+				size = 3229622
 			}
 		}
 		region_state:GBR = {
@@ -308,7 +227,7 @@
 		region_state:SPA = {
 			create_pop = {
 				culture = spanish
-				size = 579992
+				size = 1069420
 			}
 		}
 	}
@@ -316,11 +235,7 @@
 		region_state:SPA = {
 			create_pop = {
 				culture = spanish
-				size = 989604
-			}
-			create_pop = {
-				culture = catalan
-				size = 490392
+				size = 5270057
 			}
 		}
 	}
@@ -328,7 +243,7 @@
 		region_state:POR = {
 			create_pop = {
 				culture = portuguese
-				size = 1620800
+				size = 3995550
 			}
 		}
 	}
@@ -336,7 +251,7 @@
 		region_state:POR = {
 			create_pop = {
 				culture = portuguese
-				size = 860796
+				size = 3380850
 			}
 		}
 	}
@@ -344,7 +259,7 @@
 		region_state:POR = {
 			create_pop = {
 				culture = portuguese
-				size = 372508
+				size = 2049000
 			}
 		}
 	}
@@ -365,11 +280,7 @@
 		region_state:POR = {
 			create_pop = {
 				culture = portuguese
-				size = 103532
-			}
-			create_pop = {
-				culture = afro_brazilian
-				size = 24666
+				size = 409800
 			}
 		}
 	}
@@ -378,7 +289,7 @@
 		region_state:SPA = {
 			create_pop = {
 				culture = spanish
-				size = 208004
+				size = 1716276
 			}
 		}
 	}
@@ -387,11 +298,7 @@
 		region_state:POR = {
 			create_pop = {
 				culture = portuguese
-				size = 103532
-			}
-			create_pop = {
-				culture = afro_brazilian
-				size = 24666
+				size = 409800
 			}
 		}
 	}
@@ -636,26 +543,10 @@
 		}
 	}
 	s:STATE_ISTRIA = {
-		region_state:AUS = {
-			create_pop = {
-				culture = north_italian
-				size = 197800
-			}
-			create_pop = {
-				culture = hungarian
-				size = 4000
-			}
+		region_state:ITA = {
 			create_pop = {
 				culture = slovene
-				size = 344504
-			}
-			create_pop = {
-				culture = south_german
-				size = 9792
-			}
-			create_pop = {
-				culture = croat
-				size = 124000
+				size = 488986
 			}
 		}
 	}

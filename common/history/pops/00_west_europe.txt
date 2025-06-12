@@ -471,14 +471,10 @@
 		}
 	}
 	s:STATE_SOUTH_TYROL = {
-		region_state:AUS = {
+		region_state:ITA = {
 			create_pop = {
 				culture = south_german
-				size = 174100
-			}
-			create_pop = {
-				culture = north_italian
-				size = 5900
+				size = 929058
 			}
 		}
 	}

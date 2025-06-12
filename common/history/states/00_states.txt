@@ -194,7 +194,7 @@ STATES = {
 	s:STATE_VENETIA = {
 		create_state = {
 			country = c:ITA
-			owned_provinces = { xB001A0 x3083C8 x3080A0 x8EEB7A xB080A0 x5141E0 x605424 x6984B4 x554866 xC02A3F }
+			owned_provinces = { xB001A0 x3083C8 x3080A0 x8EEB7A xB080A0 x5141E0 x605424 x6984B4 x554866 xC02A3F x108021}
 		}
 		
 		add_homeland = cu:north_italian
@@ -6177,7 +6177,7 @@ STATES = {
 	s:STATE_ISTRIA = {
 		create_state = {
 			country = c:ITA
-			owned_provinces = { x108021 }
+			owned_provinces = {  }
 		}
 		create_state = {
 			country = c:SLO

@@ -6,8 +6,8 @@
 
 This project aims to bring Victoria 3 into the modern world by starting the game in the year **2000**, with realistic borders, demographics, and economic systems.
 
-⚠️ **Note**:  
-This mod is currently under early development and is **not yet playable**. Most countries and systems remain unchanged.
+> [!WARNING]
+> This mod is currently under early development and is **not yet playable**. Most countries and systems remain unchanged.
 
 ---
 

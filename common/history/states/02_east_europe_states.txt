@@ -1,0 +1,6 @@
+﻿# Moved all east European States here for easier access and to reduce conflicts
+# Quote marks are unnecessary, but harmless if present.
+
+STATES = {
+
+}

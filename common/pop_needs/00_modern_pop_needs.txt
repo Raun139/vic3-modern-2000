@@ -11,3 +11,106 @@ popneed_live_at_home = {
 	}	
 }
 
+popneed_leisure = {
+	default = house
+
+	entry = {
+		goods = house
+	}	
+}
+
+popneed_social = {
+	default = house
+
+	entry = {
+		goods = house
+	}	
+}
+
+popneed_media = {
+	default = house
+
+	entry = {
+		goods = house
+	}	
+}
+
+popneed_comfort = {
+	default = house
+
+	entry = {
+		goods = house
+	}	
+}
+
+popneed_household_items = {
+	default = house
+
+	entry = {
+		goods = house
+	}	
+}
+
+popneed_movement = {
+	default = house
+
+	entry = {
+		goods = house
+	}	
+}
+
+popneed_climate_control = {
+	default = house
+
+	entry = {
+		goods = house
+	}	
+}
+
+popneed_nutrition = {
+	default = house
+
+	entry = {
+		goods = house
+	}	
+}
+
+popneed_service_finance = {
+	default = house
+
+	entry = {
+		goods = house
+	}	
+}
+
+popneed_healthcare =  {
+	default = house
+
+	entry = {
+		goods = house
+	}	
+}
+
+popneed_vices = {
+	default = house
+
+	entry = {
+		goods = house
+	}	
+}
+
+popneed_clothing = {
+	default = house
+
+	entry = {
+		goods = house
+	}	
+}
+
+popneed_utilities = {
+	default = house
+
+	entry = {
+		goods = house
+	}	
+}

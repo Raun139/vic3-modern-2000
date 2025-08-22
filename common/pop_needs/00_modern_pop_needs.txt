@@ -8,22 +8,90 @@ popneed_live_at_home = {
 
 	entry = {
 		goods = house
+
+		weight = 3
+		max_supply_share = 1
+		min_supply_share = 0
 	}	
+	entry = {
+		goods = fabric
+
+		weight = 1
+		max_supply_share = 0.25
+		min_supply_share = 0
+	}
+	entry = {
+		goods = scrap
+
+		weight = 1
+		max_supply_share = 0.25
+		min_supply_share = 0
+	}
 }
 
 popneed_leisure = {
 	default = house
 
 	entry = {
-		goods = house
+		goods = weapons
+
+		weight = 3
+		max_supply_share = 0.2 
 	}	
+	entry = {
+		goods = tourism
+
+		weight = 1
+		max_supply_share = 0.5
+	}
+	entry = {
+		goods = appliances
+
+		weight = 2
+		max_supply_share = 0.5
+	}
+	entry = {
+		goods = community
+
+		weight = 1
+		max_supply_share = 0.5
+		min_supply_share = 0.1
+	}
+	entry = {
+		goods = mobile_devices
+
+		weight = 2
+		max_supply_share = 0.5
+	}
+	entry = {
+		goods = vehicles
+
+		weight = 3
+		max_supply_share = 0.2
+	}
 }
 
 popneed_social = {
 	default = house
 
 	entry = {
-		goods = house
+		goods = community
+
+		weight = 1
+		max_supply_share = 1
+		min_supply_share = 0.1
+	}
+	entry = {
+		goods = appliances
+
+		weight = 2
+		max_supply_share = 0.8
+	}
+	entry = {
+		goods = mobile_devices
+
+		weight = 3
+		max_supply_share = 0.8
 	}	
 }
 
@@ -31,7 +99,23 @@ popneed_media = {
 	default = house
 
 	entry = {
-		goods = house
+		goods = community
+
+		weight = 1
+		max_supply_share = 1
+		min_supply_share = 0.1
+	}
+	entry = {
+		goods = appliances
+
+		weight = 2
+		max_supply_share = 0.8
+	}
+	entry = {
+		goods = mobile_devices
+
+		weight = 3
+		max_supply_share = 0.8
 	}	
 }
 
@@ -40,6 +124,39 @@ popneed_comfort = {
 
 	entry = {
 		goods = house
+
+		weight = 1
+		max_supply_share = 0.2
+	}
+	entry = {
+		goods = furniture
+
+		weight = 1
+		max_supply_share = 0.3
+	}
+	entry = {
+		goods = appliances
+
+		weight = 1
+		max_supply_share = 0.2
+	}
+	entry = {
+		goods = clothing
+
+		weight = 1
+		max_supply_share = 0.3
+	}
+	entry = {
+		goods = vehicles
+
+		weight = 1
+		max_supply_share = 0.2
+	}
+	entry = {
+		goods = utilities
+
+		weight = 1
+		max_supply_share = 0.2
 	}	
 }
 
@@ -47,7 +164,23 @@ popneed_household_items = {
 	default = house
 
 	entry = {
-		goods = house
+		goods = appliances
+
+		weight = 4
+		max_supply_share = 0.8
+	}
+	entry = {
+		goods = furniture
+
+		weight = 3
+		max_supply_share = 1
+		min_supply_share = 0.1
+	}
+	entry = {
+		goods = scrap
+
+		weight = 1
+		max_supply_share = 0.5
 	}	
 }
 
@@ -55,7 +188,14 @@ popneed_movement = {
 	default = house
 
 	entry = {
-		goods = house
+		goods = transportation
+
+		weight = 2
+	}
+	entry = {
+		goods = vehicles
+
+		weight = 2
 	}	
 }
 
@@ -63,7 +203,25 @@ popneed_climate_control = {
 	default = house
 
 	entry = {
-		goods = house
+		goods = electricity
+
+		weight = 3
+	}
+	entry = {
+		goods = fabric
+
+		weight = 1
+	}
+	entry = {
+		goods = hydrocarbons
+
+		weight = 3
+	}
+	entry = {
+		goods = utilities
+
+		weight = 2
+		max_supply_share = 0.5
 	}	
 }
 
@@ -71,7 +229,23 @@ popneed_nutrition = {
 	default = house
 
 	entry = {
-		goods = house
+		goods = staple_foods
+
+		weight = 1
+		max_supply_share = 0.8
+		min_supply_share = 0.3
+	}
+	entry = {
+		goods = groceries
+
+		weight = 2
+		max_supply_share = 0.4
+	}
+	entry = {
+		goods = meat
+
+		weight = 3
+		max_supply_share = 0.4
 	}	
 }
 
@@ -79,7 +253,16 @@ popneed_service_finance = {
 	default = house
 
 	entry = {
-		goods = house
+		goods = insurance
+
+		weight = 3
+		max_supply_share = 0.8
+		min_supply_share = 0.1
+	}
+	entry = {
+		goods = computation
+
+		weight = 2
 	}	
 }
 
@@ -87,7 +270,22 @@ popneed_healthcare =  {
 	default = house
 
 	entry = {
-		goods = house
+		goods = pharmaceuticals
+
+		weight = 2
+		max_supply_share = 0.5
+	}
+	entry = {
+		goods = healthcare
+
+		weight = 3
+		min_supply_share = 0.5
+	}
+	entry = {
+		goods = narcotics
+
+		weight = 1
+		max_supply_share = 0.2 
 	}	
 }
 
@@ -95,15 +293,42 @@ popneed_vices = {
 	default = house
 
 	entry = {
-		goods = house
-	}	
+		goods = narcotics
+
+		weight = 3
+	}
+	entry = {
+		goods = community
+
+		weight = 1
+	}
+	entry = {
+		goods = pharmaceuticals
+
+		weight = 2
+	}
 }
 
 popneed_clothing = {
 	default = house
 
 	entry = {
-		goods = house
+		goods = fabric
+
+		weight = 1
+		max_supply_share = 0.5
+	}
+	entry = {
+		goods = clothing
+
+		weight = 2
+		min_supply_share = 0.2 
+	}
+	entry = {
+		goods = mobile_devices
+
+		weight = 4
+		max_supply_share = 0.1
 	}	
 }
 
@@ -111,6 +336,27 @@ popneed_utilities = {
 	default = house
 
 	entry = {
-		goods = house
+		goods = electricity
+
+		weight = 3
+		max_supply_share = 0.2
+	}
+	entry = {
+		goods = utilities
+
+		weight = 3
+		min_supply_share = 0.4 
+	}
+	entry = {
+		goods = fabric
+
+		weight = 1
+		max_supply_share = 0.2
+	}
+	entry = {
+		goods = hydrocarbons
+
+		weight = 2
+		max_supply_share = 0.2
 	}	
 }
